@@ -9,3 +9,7 @@ pub Created: () = {
     "x" => ()
 };
 
+pub Created22: () = {
+    "x" => ()
+};
+
